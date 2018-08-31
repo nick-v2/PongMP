@@ -1,0 +1,21 @@
+TO DO:
+
+--Make multiple balls work in Multiplayer
+UPDATE: Got multiple balls working but i think the game crashes when the thread is exepting a ball at the
+        same time one is created.
+UPDATE: With the addball button, the balls added dissapear overtime and depending on how many are there,
+        lag a little.
+
+--Once done with this ^^, make an "Add Ball" button on server
+UPDATE: WORKS!, adds balls to first client
+
+--Fix the reconnection problem with the server when playing mode 1,
+  threads are not correctly allowing clients to reconnect.
+  
+--Make current clients connected visable in server window
+
+--Add an options panel where you can set your name
+
+--Allow server to set the window size of everyones game
+
+--Fix the clients so when the server closes, it stops thier game.
